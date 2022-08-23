@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Reshmi Viswanath, a full stack web developer.
+- 👀 I’m interested in all the latest web technologies.
+- 🌱 I’m currently learning Block chain development
+- 💞️ I’m looking to collaborate on challenging web & mobile  application developments
+- 📫 How to reach me on reshmi.developer@gmail.com
